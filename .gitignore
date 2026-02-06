@@ -6,5 +6,5 @@ teleop_ws/build/
 teleop_ws/devel/
 teleop_ws/install/
 robot_client/build/
-
+robot_client/log/
 
