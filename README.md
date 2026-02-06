@@ -1,5 +1,8 @@
 # Franka VR Robot Teleoperation
 
+We modify the original code for it to work with VR controllers rather than hand tracking for better controllability.
+
+
 This system enables high-performance VR teleoperation of a Franka robot using advanced trajectory generation and inverse kinematics. Your hand movements in VR are translated to smooth, responsive robot motion through joint-space velocity control with jerk-limited trajectories.
 
 Meta Quest VR App @ [this repo](https://github.com/wengmister/quest-wrist-tracker)
